@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\bin\Debug\net6.0-windows\numerosucessoreantecessor.exe
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\bin\Debug\net6.0-windows\numerosucessoreantecessor.deps.json
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\bin\Debug\net6.0-windows\numerosucessoreantecessor.runtimeconfig.json
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\bin\Debug\net6.0-windows\numerosucessoreantecessor.dll
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\bin\Debug\net6.0-windows\numerosucessoreantecessor.pdb
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.Form1.resources
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.dll
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\refint\numerosucessoreantecessor.dll
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.pdb
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\numerosucessoreantecessor.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\numerosucessoreantecessor\numerosucessoreantecessor\obj\Debug\net6.0-windows\ref\numerosucessoreantecessor.dll
